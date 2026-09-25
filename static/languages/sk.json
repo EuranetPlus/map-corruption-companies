@@ -1,11 +1,13 @@
 {
-  "title": "Aká rozšírená je podľa firiem korupcia v ich krajine?",
-  "subtitle": "V roku 2025 63 % spoločností so sídlom v EÚ považovalo korupciu vo svojej krajine za „veľmi“ alebo „pomerne rozšírenú“. Podiel sa pohyboval od 18 % v Dánsku do 97 % v Grécku.",
+  "title": "Ako vnímajú firmy mieru korupcie vo svojej krajine?",
+  "subtitle": "V roku 2025 sa 63 % podnikov v Európskej únii domnievalo, že korupcia je v ich krajine „veľmi“ alebo „pomerne rozšírená“. Tento podiel sa pohyboval od 18 percent v Dánsku do 97 percent v Grécku.",
   "textNoteDescription": "Poznámka",
   "textNote": "Čísla ukazujú podiel spoločností, ktoré považujú problém korupcie vo svojej krajine za „veľmi rozšírený“ alebo „pomerne rozšírený“. Údaje odrážajú vnímanie spoločností a nemerajú skutočný výskyt korupcie. Prieskum sa uskutočnil v období od januára do februára 2025 medzi 12 923 spoločnosťami v celej EÚ.",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurobarometer 557",
   "linkDataAccessDescription": "Prístup k údajom",
+  "legend1": "Nie sú k dispozícii žiadne údaje",
+  "tooltipExtraInfoLabel": "Kliknite sem",
   "extraInfo_BE": "54 % spoločností",
   "extraInfo_BG": "89 % spoločností",
   "extraInfo_CZ": "62 % spoločností",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85 % spoločností",
   "extraInfo_FI": "28 % spoločností",
   "extraInfo_SE": "45 % spoločností",
-  "legend1": "Nie sú k dispozícii žiadne údaje",
-  "customUnitLabel": "spoločností považujú korupciu za rozšírenú",
-  "tooltipExtraInfoLabel": "Kliknite sem"
+  "customUnitLabel": "spoločností považujú korupciu za rozšírenú"
 }

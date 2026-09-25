@@ -1,11 +1,13 @@
 {
-  "title": "Kako razširjena je po mnenju podjetij korupcija v njihovi državi?",
-  "subtitle": "Leta 2025 je 63 % podjetij s sedežem v EU menilo, da je korupcija v njihovi državi „zelo“ ali „dokaj razširjena“. Delež se je gibal od 18 % na Danskem do 97 % v Grčiji.",
+  "title": "Kako podjetja dojemajo raven korupcije v svoji državi?",
+  "subtitle": "Leta 2025 je 63 % podjetij v Evropski uniji menilo, da je korupcija v njihovi državi „zelo“ ali „precej razširjena“. Delež se je gibal od 18 odstotkov na Danskem do 97 odstotkov v Grčiji.",
   "textNoteDescription": "Opomba",
   "textNote": "Številke prikazujejo delež podjetij, ki menijo, da je problem korupcije v njihovi državi „zelo razširjen“ ali „dokaj razširjen“. Podatki odražajo zaznavanje podjetij in ne merijo dejanske pojavnosti korupcije. Raziskava je bila izvedena med januarjem in februarjem 2025 med 12.923 podjetji po vsej EU.",
   "textSourceDescription": "Vir",
   "textSource": "Eurobarometer 557",
   "linkDataAccessDescription": "Dostop do podatkov",
+  "legend1": "Ni na voljo podatkov",
+  "tooltipExtraInfoLabel": "Kliknite tukaj",
   "extraInfo_BE": "54 % podjetij",
   "extraInfo_BG": "89 % podjetij",
   "extraInfo_CZ": "62 % podjetij",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85 % podjetij",
   "extraInfo_FI": "28 % podjetij",
   "extraInfo_SE": "45 % podjetij",
-  "legend1": "Ni na voljo podatkov",
-  "customUnitLabel": "podjetij menijo, da je korupcija razširjena",
-  "tooltipExtraInfoLabel": "Kliknite tukaj"
+  "customUnitLabel": "podjetij menijo, da je korupcija razširjena"
 }

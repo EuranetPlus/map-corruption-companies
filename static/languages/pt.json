@@ -1,11 +1,13 @@
 {
-  "title": "Qual a percepção das empresas sobre o nível de corrupção em seus respectivos países?",
-  "subtitle": "Em 2025, 63% das empresas sediadas na UE consideravam a corrupção 'muito' ou 'bastante' generalizada em seus países. Essa percentagem variava de 18% na Dinamarca a 97% na Grécia.",
+  "title": "Como as empresas percebem o nível de corrupção em seu país?",
+  "subtitle": "Em 2025, 63% das empresas na União Europeia acreditavam que a corrupção era 'muito' ou 'bastante disseminada' em seus países. Essa proporção variava de 18% na Dinamarca a 97% na Grécia.",
   "textNoteDescription": "Observação",
   "textNote": "Os dados mostram a proporção de empresas que consideram o problema da corrupção 'muito disseminado' ou 'bastante disseminado' em seus respectivos países. Os dados refletem a percepção das empresas e não medem a incidência real da corrupção. A pesquisa foi realizada entre janeiro e fevereiro de 2025 com 12.923 empresas em toda a UE.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurobarômetro 557",
   "linkDataAccessDescription": "Acesse os dados",
+  "legend1": "Não há dados disponíveis.",
+  "tooltipExtraInfoLabel": "Clique aqui",
   "extraInfo_BE": "54% das empresas",
   "extraInfo_BG": "89% das empresas",
   "extraInfo_CZ": "62% das empresas",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% das empresas",
   "extraInfo_FI": "28% das empresas",
   "extraInfo_SE": "45% das empresas",
-  "legend1": "Não há dados disponíveis.",
-  "customUnitLabel": "das empresas consideram a corrupção generalizada",
-  "tooltipExtraInfoLabel": "Clique aqui"
+  "customUnitLabel": "das empresas consideram a corrupção generalizada"
 }

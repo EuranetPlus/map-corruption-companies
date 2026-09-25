@@ -1,11 +1,13 @@
 {
-  "title": "Selon les entreprises, quel est le niveau de corruption le plus élevé dans leur pays ?",
-  "subtitle": "En 2025, 63 % des entreprises basées dans l'UE estimaient que la corruption était « très » ou « assez » répandue dans leur pays. Ce pourcentage variait de 18 % au Danemark à 97 % en Grèce.",
+  "title": "Comment les entreprises perçoivent-elles le niveau de corruption dans leur pays ?",
+  "subtitle": "En 2025, 63 % des entreprises de l'Union européenne estimaient que la corruption était « très » ou « assez » répandue dans leur pays. Ce pourcentage variait de 18 % au Danemark à 97 % en Grèce.",
   "textNoteDescription": "Note",
   "textNote": "Ces chiffres indiquent la part des entreprises qui considèrent que le problème de la corruption est « très répandu » ou « assez répandu » dans leur pays. Ces données reflètent la perception des entreprises et ne mesurent pas l’incidence réelle de la corruption. L’enquête a été menée entre janvier et février 2025 auprès de 12 923 entreprises dans toute l’UE.",
   "textSourceDescription": "Source",
   "textSource": "Eurobaromètre 557",
   "linkDataAccessDescription": "Accéder aux données",
+  "legend1": "Aucune donnée disponible",
+  "tooltipExtraInfoLabel": "Cliquez ici",
   "extraInfo_BE": "54% des entreprises",
   "extraInfo_BG": "89 % des entreprises",
   "extraInfo_CZ": "62 % des entreprises",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85 % des entreprises",
   "extraInfo_FI": "28 % des entreprises",
   "extraInfo_SE": "45 % des entreprises",
-  "legend1": "Aucune donnée disponible",
-  "customUnitLabel": "Les entreprises considèrent la corruption comme un phénomène répandu.",
-  "tooltipExtraInfoLabel": "Cliquez ici"
+  "customUnitLabel": "Les entreprises considèrent la corruption comme un phénomène répandu."
 }

@@ -1,11 +1,13 @@
 {
-  "title": "Mennyire tartják elterjedtnek a vállalatok a korrupciót az országukban?",
-  "subtitle": "2025-ben az EU-ban működő vállalatok 63%-a tartotta a korrupciót „nagyon” vagy „meglehetősen elterjedtnek” az országában. Ez az arány Dánia 18%-ától Görögország 97%-áig terjedt.",
+  "title": "Hogyan látják a vállalkozások a korrupció szintjét az országukban?",
+  "subtitle": "2025-ben az Európai Unió vállalkozásainak 63%-a vélte úgy, hogy a korrupció „nagyon” vagy „meglehetősen elterjedt” az országában. Ez az arány Dánia 18 százalékától Görögország 97 százalékáig terjedt.",
   "textNoteDescription": "Jegyzet",
   "textNote": "Az adatok azon vállalatok arányát mutatják, amelyek a korrupció problémáját „nagyon elterjedtnek” vagy „meglehetősen elterjedtnek” tartják országukban. Az adatok a vállalatok észlelését tükrözik, és nem mérik a korrupció tényleges előfordulását. A felmérést 2025 januárja és februárja között végezték 12 923 vállalat körében az EU-ban.",
   "textSourceDescription": "Forrás",
   "textSource": "Eurobarométer 557",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltipExtraInfoLabel": "Kattintson ide",
   "extraInfo_BE": "a vállalatok 54%-a",
   "extraInfo_BG": "a vállalatok 89%-a",
   "extraInfo_CZ": "a vállalatok 62%-a",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "a vállalatok 85%-a",
   "extraInfo_FI": "a vállalatok 28%-a",
   "extraInfo_SE": "a vállalatok 45%-a",
-  "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "a vállalatok széles körben elterjedtnek tartják a korrupciót",
-  "tooltipExtraInfoLabel": "Kattintson ide"
+  "customUnitLabel": "a vállalatok széles körben elterjedtnek tartják a korrupciót"
 }

@@ -1,11 +1,13 @@
 {
-  "title": "Kuinka laajalle levinnyttä yritysten mielestä korruptio on heidän maassaan?",
-  "subtitle": "Vuonna 2025 63 % EU:ssa toimivista yrityksistä piti korruptiota maassaan ”erittäin” tai ”melko laajalle levinneenä”. Osuus vaihteli Tanskan 18 prosentista Kreikan 97 prosenttiin.",
+  "title": "Miten yritykset kokevat korruption tason maassaan?",
+  "subtitle": "Vuonna 2025 63 % Euroopan unionin yrityksistä uskoi korruption olevan 'erittäin' tai 'melko laajalle levinnyttä' heidän maassaan. Osuus vaihteli Tanskan 18 prosentista Kreikan 97 prosenttiin.",
   "textNoteDescription": "Huomautus",
   "textNote": "Luvut osoittavat niiden yritysten osuuden, jotka pitävät korruptio-ongelmaa joko 'erittäin laajalle levinneenä' tai 'melko laajalle levinneenä' maassaan. Tiedot heijastavat yritysten käsityksiä eivätkä mittaa korruption todellista esiintyvyyttä. Kysely tehtiin tammi-helmikuussa 2025 12 923 yrityksen keskuudessa eri puolilla EU:ta.",
   "textSourceDescription": "Lähde",
   "textSource": "Eurobarometri 557",
   "linkDataAccessDescription": "Käytä tietoja",
+  "legend1": "Ei tietoja saatavilla",
+  "tooltipExtraInfoLabel": "Klikkaa tästä",
   "extraInfo_BE": "54 % yrityksistä",
   "extraInfo_BG": "89 % yrityksistä",
   "extraInfo_CZ": "62 % yrityksistä",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85 % yrityksistä",
   "extraInfo_FI": "28 % yrityksistä",
   "extraInfo_SE": "45 % yrityksistä",
-  "legend1": "Ei tietoja saatavilla",
-  "customUnitLabel": "yrityksistä pitää korruptiota yleisenä",
-  "tooltipExtraInfoLabel": "Klikkaa tästä"
+  "customUnitLabel": "yrityksistä pitää korruptiota yleisenä"
 }

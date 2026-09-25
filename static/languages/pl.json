@@ -1,11 +1,13 @@
 {
-  "title": "Jak powszechna jest, zdaniem przedsiębiorstw, korupcja w ich kraju?",
-  "subtitle": "W 2025 roku 63% firm z siedzibą w UE uznało korupcję za „bardzo” lub „dość powszechną” w swoim kraju. Odsetek ten wahał się od 18% w Danii do 97% w Grecji.",
+  "title": "Jak przedsiębiorstwa postrzegają poziom korupcji w swoim kraju?",
+  "subtitle": "W 2025 roku 63% przedsiębiorstw w Unii Europejskiej uważało, że korupcja jest „bardzo” lub „dość powszechna” w ich kraju. Odsetek ten wahał się od 18% w Danii do 97% w Grecji.",
   "textNoteDescription": "Notatka",
   "textNote": "Dane pokazują odsetek firm, które uważają problem korupcji za „bardzo powszechny” lub „dość powszechny” w swoim kraju. Dane odzwierciedlają percepcję firm i nie mierzą rzeczywistego zasięgu korupcji. Badanie przeprowadzono w okresie od stycznia do lutego 2025 roku wśród 12 923 firm z całej UE.",
   "textSourceDescription": "Źródło",
   "textSource": "Eurobarometr 557",
   "linkDataAccessDescription": "Dostęp do danych",
+  "legend1": "Brak dostępnych danych",
+  "tooltipExtraInfoLabel": "Kliknij tutaj",
   "extraInfo_BE": "54% firm",
   "extraInfo_BG": "89% firm",
   "extraInfo_CZ": "62% firm",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% firm",
   "extraInfo_FI": "28% firm",
   "extraInfo_SE": "45% firm",
-  "legend1": "Brak dostępnych danych",
-  "customUnitLabel": "firm uważa, że korupcja jest powszechna",
-  "tooltipExtraInfoLabel": "Kliknij tutaj"
+  "customUnitLabel": "firm uważa, że korupcja jest powszechna"
 }

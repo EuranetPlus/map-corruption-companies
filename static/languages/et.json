@@ -1,11 +1,13 @@
 {
-  "title": "Kui levinud on ettevõtete arvates korruptsioon nende riigis?",
-  "subtitle": "2025. aastal pidas 63% ELis asuvatest ettevõtetest korruptsiooni oma riigis „väga“ või „üsna laialt levinud“ olevaks. See osakaal ulatus 18%-st Taanis kuni 97%-ni Kreekas.",
+  "title": "Kuidas ettevõtted tajuvad korruptsiooni taset oma riigis?",
+  "subtitle": "2025. aastal uskus 63% Euroopa Liidu ettevõtetest, et korruptsioon on nende riigis „väga” või „üsna laialt levinud”. See osakaal ulatus 18 protsendist Taanis 97 protsendini Kreekas.",
   "textNoteDescription": "Märkus",
   "textNote": "Arvud näitavad nende ettevõtete osakaalu, kes peavad korruptsiooniprobleemi oma riigis kas „väga laialt levinud“ või „üsna laialt levinud“. Andmed kajastavad ettevõtete arusaamu ega mõõda korruptsiooni tegelikku esinemissagedust. Uuring viidi läbi jaanuari ja veebruari 2025 vahel 12 923 ettevõtte seas üle kogu ELi.",
   "textSourceDescription": "Allikas",
   "textSource": "Eurobaromeeter 557",
   "linkDataAccessDescription": "Juurdepääs andmetele",
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia",
   "extraInfo_BE": "54% ettevõtetest",
   "extraInfo_BG": "89% ettevõtetest",
   "extraInfo_CZ": "62% ettevõtetest",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% ettevõtetest",
   "extraInfo_FI": "28% ettevõtetest",
   "extraInfo_SE": "45% ettevõtetest",
-  "legend1": "Andmed pole saadaval",
-  "customUnitLabel": "ettevõtetest peab korruptsiooni laialt levinud",
-  "tooltipExtraInfoLabel": "Kliki siia"
+  "customUnitLabel": "ettevõtetest peab korruptsiooni laialt levinud"
 }

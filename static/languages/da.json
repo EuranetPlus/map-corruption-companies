@@ -1,11 +1,13 @@
 {
-  "title": "Hvor udbredt mener virksomheder, at korruption er i deres land?",
-  "subtitle": "I 2025 anså 63 % af EU-baserede virksomheder korruption for at være 'meget' eller 'ret udbredt' i deres land. Andelen varierede fra 18 % i Danmark til 97 % i Grækenland.",
+  "title": "Hvordan opfatter virksomheder niveauet af korruption i deres land?",
+  "subtitle": "I 2025 mente 63 % af virksomhederne i Den Europæiske Union, at korruption var 'meget' eller 'ret udbredt' i deres land. Andelen varierede fra 18 procent i Danmark til 97 procent i Grækenland.",
   "textNoteDescription": "Note",
   "textNote": "Tallene viser andelen af virksomheder, der anser korruptionsproblemet for at være enten 'meget udbredt' eller 'ret udbredt' i deres land. Dataene afspejler virksomhedernes opfattelser og måler ikke den faktiske forekomst af korruption. Undersøgelsen blev udført mellem januar og februar 2025 blandt 12.923 virksomheder i hele EU.",
   "textSourceDescription": "Kilde",
   "textSource": "Eurobarometer 557",
   "linkDataAccessDescription": "Få adgang til dataene",
+  "legend1": "Ingen data tilgængelige",
+  "tooltipExtraInfoLabel": "Klik her",
   "extraInfo_BE": "54% af virksomhederne",
   "extraInfo_BG": "89% af virksomhederne",
   "extraInfo_CZ": "62% af virksomhederne",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% af virksomhederne",
   "extraInfo_FI": "28% af virksomhederne",
   "extraInfo_SE": "45% af virksomhederne",
-  "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "af virksomhederne anser korruption for udbredt",
-  "tooltipExtraInfoLabel": "Klik her"
+  "customUnitLabel": "af virksomhederne anser korruption for udbredt"
 }

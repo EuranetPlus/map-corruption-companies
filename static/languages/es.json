@@ -1,11 +1,13 @@
 {
-  "title": "¿Hasta qué punto creen las empresas que existe corrupción en su país?",
-  "subtitle": "En 2025, el 63 % de las empresas con sede en la UE consideraban que la corrupción estaba «muy» o «bastante extendida» en su país. El porcentaje oscilaba entre el 18 % en Dinamarca y el 97 % en Grecia.",
+  "title": "¿Cómo perciben las empresas el nivel de corrupción en su país?",
+  "subtitle": "En 2025, el 63 % de las empresas de la Unión Europea creían que la corrupción estaba 'muy' o 'bastante extendida' en su país. El porcentaje variaba desde el 18 % en Dinamarca hasta el 97 % en Grecia.",
   "textNoteDescription": "Nota",
   "textNote": "Las cifras muestran el porcentaje de empresas que consideran que el problema de la corrupción está «muy extendido» o «bastante extendido» en su país. Los datos reflejan la percepción de las empresas y no miden la incidencia real de la corrupción. La encuesta se realizó entre enero y febrero de 2025 a 12 923 empresas de toda la UE.",
   "textSourceDescription": "Fuente",
   "textSource": "Eurobarómetro 557",
   "linkDataAccessDescription": "Acceder a los datos",
+  "legend1": "No hay datos disponibles",
+  "tooltipExtraInfoLabel": "haga clic aquí",
   "extraInfo_BE": "54% de las empresas",
   "extraInfo_BG": "89% de las empresas",
   "extraInfo_CZ": "62% de las empresas",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% de las empresas",
   "extraInfo_FI": "28% de las empresas",
   "extraInfo_SE": "45% de las empresas",
-  "legend1": "No hay datos disponibles",
-  "customUnitLabel": "Las empresas consideran que la corrupción está muy extendida.",
-  "tooltipExtraInfoLabel": "haga clic aquí"
+  "customUnitLabel": "Las empresas consideran que la corrupción está muy extendida."
 }

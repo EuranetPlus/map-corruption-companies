@@ -1,11 +1,13 @@
 {
-  "title": "Wie weit verbreitet schätzen die Unternehmen die Korruption in ihrem Land ein?",
-  "subtitle": "Im Jahr 2025 stuften 63 % der in der EU ansässigen Unternehmen Korruption in ihrem Land als „sehr“ oder „ziemlich weit verbreitet“ ein. Die Anteile reichten von 18 % in Dänemark bis 97 % in Griechenland.",
+  "title": "Wie schätzen Unternehmen das Ausmaß der Korruption in ihrem Land ein?",
+  "subtitle": "Im Jahr 2025 gaben 63 % der Unternehmen in der Europäischen Union an, dass Korruption in ihrem Land „sehr“ oder „ziemlich weit verbreitet“ sei. Die Anteile reichten von 18 % in Dänemark bis 97 % in Griechenland.",
   "textNoteDescription": "Notiz",
   "textNote": "Die Zahlen geben den Anteil der Unternehmen an, die das Problem der Korruption in ihrem Land als „sehr weit verbreitet“ oder „ziemlich weit verbreitet“ einschätzen. Die Daten spiegeln die Wahrnehmung der Unternehmen wider und erfassen nicht das tatsächliche Ausmaß der Korruption. Die Umfrage wurde zwischen Januar und Februar 2025 unter 12.923 Unternehmen in der gesamten EU durchgeführt.",
   "textSourceDescription": "Quelle",
   "textSource": "Eurobarometer 557",
   "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "legend1": "Keine Daten verfügbar",
+  "tooltipExtraInfoLabel": "klicken Sie hier",
   "extraInfo_BE": "54 % der Unternehmen",
   "extraInfo_BG": "89 % der Unternehmen",
   "extraInfo_CZ": "62 % der Unternehmen",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85 % der Unternehmen",
   "extraInfo_FI": "28 % der Unternehmen",
   "extraInfo_SE": "45 % der Unternehmen",
-  "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "Unternehmen betrachten Korruption als weit verbreitet",
-  "tooltipExtraInfoLabel": "klicken Sie hier"
+  "customUnitLabel": "Unternehmen betrachten Korruption als weit verbreitet"
 }

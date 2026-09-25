@@ -1,11 +1,13 @@
 {
-  "title": "Quanto ritengono le aziende diffusa la corruzione nel loro paese?",
-  "subtitle": "Nel 2025, il 63% delle aziende con sede nell'UE considerava la corruzione 'molto' o 'abbastanza diffusa' nel proprio paese. La percentuale variava dal 18% in Danimarca al 97% in Grecia.",
+  "title": "Come percepiscono le imprese il livello di corruzione nel loro paese?",
+  "subtitle": "Nel 2025, il 63% delle imprese nell'Unione Europea riteneva che la corruzione fosse 'molto' o 'abbastanza diffusa' nel proprio paese. La percentuale variava dal 18% in Danimarca al 97% in Grecia.",
   "textNoteDescription": "Nota",
   "textNote": "I dati mostrano la percentuale di aziende che considerano il problema della corruzione 'molto diffuso' o 'abbastanza diffuso' nel proprio paese. Le informazioni riflettono le percezioni delle aziende e non misurano l'effettiva incidenza della corruzione. L'indagine è stata condotta tra gennaio e febbraio 2025 su un campione di 12.923 aziende in tutta l'UE.",
   "textSourceDescription": "Fonte",
   "textSource": "Eurobarometro 557",
   "linkDataAccessDescription": "Accedere ai dati",
+  "legend1": "Nessun dato disponibile",
+  "tooltipExtraInfoLabel": "clicca qui",
   "extraInfo_BE": "Il 54% delle aziende",
   "extraInfo_BG": "L'89% delle aziende",
   "extraInfo_CZ": "Il 62% delle aziende",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "L'85% delle aziende",
   "extraInfo_FI": "il 28% delle aziende",
   "extraInfo_SE": "Il 45% delle aziende",
-  "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "delle aziende considerano la corruzione diffusa",
-  "tooltipExtraInfoLabel": "clicca qui"
+  "customUnitLabel": "delle aziende considerano la corruzione diffusa"
 }

@@ -1,7 +1,8 @@
 import { writable } from 'svelte/store';
+
 export const mapConfig = writable({
-  "title": "How widespread do companies think corruption is in their country?",
-  "subtitle": "In 2025, 63% of EU-based companies considered corruption to be ‘very’ or ‘fairly widespread’ in their country. The share ranged from 18% in Denmark to 97% in Greece.",
+  "title": "How do businesses perceive the level of corruption in their country?",
+  "subtitle": "In 2025, 63% of businesses in the European Union believed that corruption was 'very' or 'fairly widespread' in their country. The proportion ranged from 18 per cent in Denmark to 97 per cent in Greece.",
   "colourSchemeClasses": 7,
   "data": "country,id,value,extraInfo,text_content,link_text,link_url_target,audio_url_1,audio_url_2,audio_url_3,image_url_source,image_url_target,video_url\nBelgium,BE,0.54,false,54% of companies,,,,,,,,\nBulgaria,BG,0.89,false,89% of companies,,,,,,,,\nCzechia,CZ,0.62,false,62% of companies,,,,,,,,\nDenmark,DK,0.18,false,18% of companies,,,,,,,,\nGermany,DE,0.47,false,47% of companies,,,,,,,,\nEstonia,EE,0.32,false,32% of companies,,,,,,,,\nIreland,IE,0.30,false,30% of companies,,,,,,,,\nGreece,EL,0.97,false,97% of companies,,,,,,,,\nSpain,ES,0.87,false,87% of companies,,,,,,,,\nFrance,FR,0.63,false,63% of companies,,,,,,,,\nCroatia,HR,0.90,false,90% of companies,,,,,,,,\nItaly,IT,0.81,false,81% of companies,,,,,,,,\nCyprus,CY,0.93,false,93% of companies,,,,,,,,\nLatvia,LV,0.66,false,66% of companies,,,,,,,,\nLithuania,LT,0.56,false,56% of companies,,,,,,,,\nLuxembourg,LU,0.40,false,40% of companies,,,,,,,,\nHungary,HU,0.83,false,83% of companies,,,,,,,,\nMalta,MT,0.69,false,69% of companies,,,,,,,,\nNetherlands,NL,0.52,false,52% of companies,,,,,,,,\nAustria,AT,0.55,false,55% of companies,,,,,,,,\nPoland,PL,0.41,false,41% of companies,,,,,,,,\nPortugal,PT,0.75,false,75% of companies,,,,,,,,\nRomania,RO,0.90,false,90% of companies,,,,,,,,\nSlovenia,SI,0.84,false,84% of companies,,,,,,,,\nSlovakia,SK,0.85,false,85% of companies,,,,,,,,\nFinland,FI,0.28,false,28% of companies,,,,,,,,\nSweden,SE,0.45,false,45% of companies,,,,,,,,",
   "parsedData": [
@@ -438,8 +439,8 @@ export const mapConfig = writable({
   "customUnitLabel": "of companies consider corruption widespread",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
-    "title": "How widespread do companies think corruption is in their country?",
-    "subtitle": "In 2025, 63% of EU-based companies considered corruption to be ‘very’ or ‘fairly widespread’ in their country. The share ranged from 18% in Denmark to 97% in Greece.",
+    "title": "How do businesses perceive the level of corruption in their country?",
+    "subtitle": "In 2025, 63% of businesses in the European Union believed that corruption was 'very' or 'fairly widespread' in their country. The proportion ranged from 18 per cent in Denmark to 97 per cent in Greece.",
     "textNoteDescription": "Note",
     "textNote": "The figures show the share of companies that consider the problem of corruption to be either ‘very widespread’ or ‘fairly widespread’ in their country. The data reflect companies’ perceptions and do not measure the actual incidence of corruption. The survey was conducted between January and February 2025 among 12,923 companies across the EU.",
     "textSourceDescription": "Source",

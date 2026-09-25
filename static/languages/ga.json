@@ -1,11 +1,13 @@
 {
-  "title": "Cé chomh forleathan is a cheapann cuideachtaí atá an éilliú ina dtír féin?",
-  "subtitle": "Sa bhliain 2025, mheas 63% de chuideachtaí atá lonnaithe san AE go raibh an éilliú ‘an-fhorleathan’ nó ‘réasúnta forleathan’ ina dtír féin. Bhí an sciar idir 18% sa Danmhairg agus 97% sa Ghréig.",
+  "title": "Cén tuiscint atá ag gnólachtaí ar leibhéal na héillithe ina dtír féin?",
+  "subtitle": "Sa bhliain 2025, chreid 63% de ghnólachtaí san Aontas Eorpach go raibh an éilliú 'an-fhorleathan' nó 'sách forleathan' ina dtír. Bhí an cion idir 18 faoin gcéad sa Danmhairg agus 97 faoin gcéad sa Ghréig.",
   "textNoteDescription": "Nóta",
   "textNote": "Léiríonn na figiúirí an sciar de chuideachtaí a mheasann go bhfuil fadhb an éillithe ‘an-fhorleathan’ nó ‘sách forleathan’ ina dtír féin. Léiríonn na sonraí dearcadh na gcuideachtaí agus ní thomhaiseann siad minicíocht iarbhír an éillithe. Rinneadh an suirbhé idir Eanáir agus Feabhra 2025 i measc 12,923 cuideachta ar fud an AE.",
   "textSourceDescription": "Foinse",
   "textSource": "Eorabharaiméadar 557",
   "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "legend1": "Níl aon sonraí ar fáil",
+  "tooltipExtraInfoLabel": "Cliceáil anseo",
   "extraInfo_BE": "54% de chuideachtaí",
   "extraInfo_BG": "89% de chuideachtaí",
   "extraInfo_CZ": "62% de chuideachtaí",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% de chuideachtaí",
   "extraInfo_FI": "28% de chuideachtaí",
   "extraInfo_SE": "45% de chuideachtaí",
-  "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "de chuideachtaí a mheasann go bhfuil an éilliú forleathan",
-  "tooltipExtraInfoLabel": "Cliceáil anseo"
+  "customUnitLabel": "de chuideachtaí a mheasann go bhfuil an éilliú forleathan"
 }

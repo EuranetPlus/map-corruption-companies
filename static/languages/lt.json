@@ -1,11 +1,13 @@
 {
-  "title": "Kiek, įmonių nuomone, korupcija yra paplitusi jų šalyje?",
-  "subtitle": "2025 m. 63 % ES įsikūrusių įmonių korupciją savo šalyje laikė „labai“ arba „gana paplitusia“. Ši dalis svyravo nuo 18 % Danijoje iki 97 % Graikijoje.",
+  "title": "Kaip įmonės vertina korupcijos lygį savo šalyje?",
+  "subtitle": "2025 m. 63 proc. Europos Sąjungos įmonių manė, kad korupcija jų šalyje yra „labai“ arba „gana plačiai paplitusi“. Ši dalis svyravo nuo 18 proc. Danijoje iki 97 proc. Graikijoje.",
   "textNoteDescription": "Pastaba",
   "textNote": "Skaičiai rodo įmonių, kurios korupcijos problemą savo šalyje laiko „labai paplitusia“ arba „gana paplitusia“, dalį. Duomenys atspindi įmonių suvokimą ir nematuoja tikrojo korupcijos paplitimo. Apklausa buvo atlikta 2025 m. sausio–vasario mėn., apklausus 12 923 įmones visoje ES.",
   "textSourceDescription": "Šaltinis",
   "textSource": "„Eurobarometras“ 557",
   "linkDataAccessDescription": "Prieiga prie duomenų",
+  "legend1": "Nėra duomenų",
+  "tooltipExtraInfoLabel": "Spustelėkite čia",
   "extraInfo_BE": "54 % įmonių",
   "extraInfo_BG": "89 % įmonių",
   "extraInfo_CZ": "62 % įmonių",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85 % įmonių",
   "extraInfo_FI": "28 % įmonių",
   "extraInfo_SE": "45 % įmonių",
-  "legend1": "Nėra duomenų",
-  "customUnitLabel": "įmonių mano, kad korupcija yra plačiai paplitusi",
-  "tooltipExtraInfoLabel": "Spustelėkite čia"
+  "customUnitLabel": "įmonių mano, kad korupcija yra plačiai paplitusi"
 }

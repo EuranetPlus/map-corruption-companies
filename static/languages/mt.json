@@ -1,11 +1,13 @@
 {
-  "title": "Kemm jaħsbu l-kumpaniji li l-korruzzjoni hija mifruxa f'pajjiżhom?",
-  "subtitle": "Fl-2025, 63% tal-kumpaniji bbażati fl-UE qiesu l-korruzzjoni bħala 'mifruxa ħafna' jew 'pjuttost mifruxa' f'pajjiżhom. Is-sehem varja minn 18% fid-Danimarka sa 97% fil-Greċja.",
+  "title": "Kif in-negozji jipperċepixxu l-livell ta' korruzzjoni f'pajjiżhom?",
+  "subtitle": "Fl-2025, 63% tan-negozji fl-Unjoni Ewropea emmnu li l-korruzzjoni kienet 'mifruxa ħafna' jew 'pjuttost mifruxa' f'pajjiżhom. Il-proporzjon varja minn 18 fil-mija fid-Danimarka sa 97 fil-mija fil-Greċja.",
   "textNoteDescription": "Nota",
   "textNote": "Iċ-ċifri juru s-sehem ta’ kumpaniji li jqisu l-problema tal-korruzzjoni bħala “mifruxa ħafna” jew “pjuttost mifruxa” f’pajjiżhom. Id-dejta tirrifletti l-perċezzjonijiet tal-kumpaniji u ma tkejjilx l-inċidenza attwali tal-korruzzjoni. L-istħarriġ sar bejn Jannar u Frar 2025 fost 12,923 kumpanija madwar l-UE.",
   "textSourceDescription": "Sors",
   "textSource": "Eurobarometer 557",
   "linkDataAccessDescription": "Aċċessa d-dejta",
+  "legend1": "L-ebda dejta disponibbli",
+  "tooltipExtraInfoLabel": "Ikklikkja hawn",
   "extraInfo_BE": "54% tal-kumpaniji",
   "extraInfo_BG": "89% tal-kumpaniji",
   "extraInfo_CZ": "62% tal-kumpaniji",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% tal-kumpaniji",
   "extraInfo_FI": "28% tal-kumpaniji",
   "extraInfo_SE": "45% tal-kumpaniji",
-  "legend1": "L-ebda dejta disponibbli",
-  "customUnitLabel": "tal-kumpaniji jqisu l-korruzzjoni mifruxa",
-  "tooltipExtraInfoLabel": "Ikklikkja hawn"
+  "customUnitLabel": "tal-kumpaniji jqisu l-korruzzjoni mifruxa"
 }

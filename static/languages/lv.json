@@ -1,11 +1,13 @@
 {
-  "title": "Cik plaši, pēc uzņēmumu domām, korupcija ir izplatīta viņu valstī?",
-  "subtitle": "2025. gadā 63 % ES uzņēmumu uzskatīja korupciju par “ļoti” vai “diezgan plaši izplatītu” savā valstī. Šis rādītājs svārstījās no 18 % Dānijā līdz 97 % Grieķijā.",
+  "title": "Kā uzņēmēji uztver korupcijas līmeni savā valstī?",
+  "subtitle": "2025. gadā 63 % uzņēmumu Eiropas Savienībā uzskatīja, ka korupcija viņu valstī ir “ļoti” vai “diezgan plaši izplatīta”. Šī proporcija svārstījās no 18 % Dānijā līdz 97 % Grieķijā.",
   "textNoteDescription": "Piezīme",
   "textNote": "Skaitļi parāda to uzņēmumu īpatsvaru, kuri uzskata, ka korupcijas problēma viņu valstī ir “ļoti izplatīta” vai “diezgan izplatīta”. Dati atspoguļo uzņēmumu uztveri un nemēra faktisko korupcijas izplatību. Aptauja tika veikta laikā no 2025. gada janvāra līdz februārim 12 923 uzņēmumos visā ES.",
   "textSourceDescription": "Avots",
   "textSource": "Eirobarometrs 557",
   "linkDataAccessDescription": "Piekļūstiet datiem",
+  "legend1": "Dati nav pieejami",
+  "tooltipExtraInfoLabel": "Noklikšķiniet šeit",
   "extraInfo_BE": "54% uzņēmumu",
   "extraInfo_BG": "89% uzņēmumu",
   "extraInfo_CZ": "62% uzņēmumu",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% uzņēmumu",
   "extraInfo_FI": "28% uzņēmumu",
   "extraInfo_SE": "45% uzņēmumu",
-  "legend1": "Dati nav pieejami",
-  "customUnitLabel": "uzņēmumu uzskata korupciju par plaši izplatītu",
-  "tooltipExtraInfoLabel": "Noklikšķiniet šeit"
+  "customUnitLabel": "uzņēmumu uzskata korupciju par plaši izplatītu"
 }

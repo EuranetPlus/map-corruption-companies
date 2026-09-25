@@ -1,11 +1,13 @@
 {
-  "title": "How widespread do companies think corruption is in their country?",
-  "subtitle": "In 2025, 63% of EU-based companies considered corruption to be ‘very’ or ‘fairly widespread’ in their country. The share ranged from 18% in Denmark to 97% in Greece.",
+  "title": "How do businesses perceive the level of corruption in their country?",
+  "subtitle": "In 2025, 63% of businesses in the European Union believed that corruption was 'very' or 'fairly widespread' in their country. The proportion ranged from 18 per cent in Denmark to 97 per cent in Greece.",
   "textNoteDescription": "Note",
   "textNote": "The figures show the share of companies that consider the problem of corruption to be either ‘very widespread’ or ‘fairly widespread’ in their country. The data reflect companies’ perceptions and do not measure the actual incidence of corruption. The survey was conducted between January and February 2025 among 12,923 companies across the EU.",
   "textSourceDescription": "Source",
   "textSource": "Eurobarometer 557",
   "linkDataAccessDescription": "Access the data",
+  "legend1": "No data available",
+  "tooltipExtraInfoLabel": "Click here",
   "extraInfo_BE": "54% of companies",
   "extraInfo_BG": "89% of companies",
   "extraInfo_CZ": "62% of companies",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% of companies",
   "extraInfo_FI": "28% of companies",
   "extraInfo_SE": "45% of companies",
-  "legend1": "No data available",
-  "customUnitLabel": "of companies consider corruption widespread",
-  "tooltipExtraInfoLabel": "Click here"
+  "customUnitLabel": "of companies consider corruption widespread"
 }

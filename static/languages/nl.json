@@ -1,11 +1,13 @@
 {
-  "title": "Hoe wijdverbreid achten bedrijven corruptie in hun land?",
-  "subtitle": "In 2025 beschouwde 63% van de in de EU gevestigde bedrijven corruptie als ‘zeer’ of ‘redelijk wijdverbreid’ in hun land. Dit percentage varieerde van 18% in Denemarken tot 97% in Griekenland.",
+  "title": "Hoe schatten bedrijven de mate van corruptie in hun land in?",
+  "subtitle": "In 2025 was 63% van de bedrijven in de Europese Unie van mening dat corruptie in hun land 'zeer' of 'redelijk wijdverbreid' was. Dit percentage varieerde van 18 procent in Denemarken tot 97 procent in Griekenland.",
   "textNoteDescription": "Opmerking",
   "textNote": "De cijfers tonen het percentage bedrijven dat het probleem van corruptie in hun land als ‘zeer wijdverbreid’ of ‘redelijk wijdverbreid’ beschouwt. De gegevens weerspiegelen de perceptie van bedrijven en meten niet de werkelijke omvang van corruptie. Het onderzoek werd uitgevoerd tussen januari en februari 2025 onder 12.923 bedrijven in de EU.",
   "textSourceDescription": "Bron",
   "textSource": "Eurobarometer 557",
   "linkDataAccessDescription": "Toegang tot de gegevens",
+  "legend1": "Geen gegevens beschikbaar",
+  "tooltipExtraInfoLabel": "Klik hier",
   "extraInfo_BE": "54% van de bedrijven",
   "extraInfo_BG": "89% van de bedrijven",
   "extraInfo_CZ": "62% van de bedrijven",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% van de bedrijven",
   "extraInfo_FI": "28% van de bedrijven",
   "extraInfo_SE": "45% van de bedrijven",
-  "legend1": "Geen gegevens beschikbaar",
-  "customUnitLabel": "bedrijven beschouwen corruptie als wijdverbreid",
-  "tooltipExtraInfoLabel": "Klik hier"
+  "customUnitLabel": "bedrijven beschouwen corruptie als wijdverbreid"
 }

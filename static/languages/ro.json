@@ -1,11 +1,13 @@
 {
-  "title": "Cât de răspândită consideră companiile corupția în țara lor?",
-  "subtitle": "În 2025, 63% dintre companiile cu sediul în UE considerau corupția ca fiind „foarte” sau „destul de răspândită” în țara lor. Procentul a variat de la 18% în Danemarca la 97% în Grecia.",
+  "title": "Cum percep companiile nivelul de corupție din țara lor?",
+  "subtitle": "În 2025, 63% dintre întreprinderile din Uniunea Europeană considerau că fenomenul corupției era „foarte” sau „destul de răspândit” în țara lor. Proporția a variat de la 18% în Danemarca la 97% în Grecia.",
   "textNoteDescription": "Nota",
   "textNote": "Cifrele arată ponderea companiilor care consideră că problema corupției este fie „foarte răspândită”, fie „destul de răspândită” în țara lor. Datele reflectă percepțiile companiilor și nu măsoară incidența reală a corupției. Sondajul a fost realizat între ianuarie și februarie 2025 în rândul a 12.923 de companii din întreaga UE.",
   "textSourceDescription": "Sursă",
   "textSource": "Eurobarometru 557",
   "linkDataAccessDescription": "Accesați datele",
+  "legend1": "Nu sunt disponibile date",
+  "tooltipExtraInfoLabel": "Click aici",
   "extraInfo_BE": "54% dintre companii",
   "extraInfo_BG": "89% dintre companii",
   "extraInfo_CZ": "62% dintre companii",
@@ -33,7 +35,5 @@
   "extraInfo_SK": "85% dintre companii",
   "extraInfo_FI": "28% dintre companii",
   "extraInfo_SE": "45% dintre companii",
-  "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "dintre companii consideră că corupția este larg răspândită",
-  "tooltipExtraInfoLabel": "Click aici"
+  "customUnitLabel": "dintre companii consideră că corupția este larg răspândită"
 }
